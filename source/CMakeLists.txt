@@ -1,1 +1,1 @@
-cmake_minimum_required(3.0)
+cmake_minimum_required(VERSION 2.8)
